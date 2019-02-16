@@ -87,5 +87,115 @@ p {
             color:#777777;
             padding-right:25px;}
 
+            @media screen and (max-width:980px){
+
+                
+                
+        
+                #nameNav {
+                
+                        height:80px;
+                        width:900px;
+                        margin:0px auto 0px auto;}
+        
+                
+                
+        
+                #yourName {
+                        float:left;
+                        margin-left:20px;
+                        width:240px;
+                        height:80px;
+                        background-color:#4aaaa5;}
+        
+                #contentArea {
+                        background-color:white;
+                        width:600px;
+                        margin:40px auto 100px 55px;
+                        padding:25px;}
+}
+
+
+
+@media screen and (max-width:768px){
+
+        
+
+        #nameNav {
+        
+                height:80px;
+                width:750px;
+                margin:0px auto 0px auto;}
+
+        
+        
+
+        #yourName {
+                float:left;
+                margin-left:15px;
+                width:240px;
+                height:80px;
+                background-color:#4aaaa5;}
+
+        #contentArea {
+                background-color:white;
+                width:640px;
+                margin:40px auto 100px 20px;
+                padding:25px;}
+
+        .name, .email, .message {
+                width:630px;
+        }
+
+}
+
+
+@media screen and (max-width:640px){
+
+        .nav {
+                text-align:center;
+                margin-top:13px;
+                
+        }
+
+
+        #nav {
+                border-bottom:2px solid #cccccc;
+              background-color:white;
+             padding-bottom:10px;
+                margin-left:-200px;
+                margin-right:-5px;
+                 width:627px;
+                height:40px;
+                text-align:left;}
+
+        #nameNav {
+                
+                height:150px;
+                width:620px;
+                margin:0px auto 0px auto;}
+
+        
+        
+
+        #yourName {
+                text-align:center;
+                padding:5px;
+                margin-left:-5px;
+                width:620px;
+                height:70px;
+                background-color:#4aaaa5;}
+
+        #contentArea {
+                background-color:white;
+                width:540px;
+                margin:80px auto 100px 20px;
+                padding:25px;}
+
+                .name, .email, .message {
+                        width:535px;
+                }
+
+}
 
 
