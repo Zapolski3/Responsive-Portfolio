@@ -92,10 +92,11 @@ p {
 
 #first, #second, #third, #fourth, #fith {
         width:250px;
-
+        
 }
 
  #second, #fourth {
+        
         float:right;
         margin-top:-255px;
 }
@@ -257,8 +258,6 @@ p {
                 font-size: 20px;
                 margin-top:4px;
         }
-
-
 }
 
 
